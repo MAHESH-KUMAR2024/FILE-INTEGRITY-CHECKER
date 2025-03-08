@@ -57,3 +57,4 @@ This tool monitors file changes by calculating and comparing SHA-256 hash values
 # OUTPUT
 
 <img width="779" alt="Image" src="https://github.com/user-attachments/assets/7eb77f6f-f5db-4959-9f2a-bdef7558d941" />
+
