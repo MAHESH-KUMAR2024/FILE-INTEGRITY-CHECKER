@@ -1,0 +1,5 @@
+This is a sample text file for monitoring.
+Modify this file to check if the script detects changes.
+
+Hello this is python
+How are you
